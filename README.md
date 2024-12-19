@@ -32,7 +32,7 @@ graph TD
     D --> E[Add Keywords & Photo]
     E --> F[Save Work Log]
     F --> G[View Logs on Calendar]
-    G --> H[Edit Logs (if needed)]
+    G --> H[Edit Logs]
 ```
 
 ---
